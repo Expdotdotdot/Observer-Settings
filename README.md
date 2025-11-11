@@ -1,10 +1,10 @@
-## Observer-Settings
+# Observer-Settings
 My regular observer settings for consistency
 
-# HLAE is recommended
+## HLAE is recommended
 https://github.com/advancedfx/advancedfx
 
-# Faceit Coaches
+## Faceit Coaches
 Use spec_player followed by the player name in "" to spec the player that is not on 0-9
 
 Ex: bind - spec_player "VeryCoolUsername"
