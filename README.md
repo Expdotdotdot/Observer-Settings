@@ -2,5 +2,5 @@
 My regular observer settings for consistency
 
 
-##HLAE is recommended
+## HLAE is recommended
 https://github.com/advancedfx/advancedfx
