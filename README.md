@@ -12,3 +12,5 @@ Ex: bind - spec_player "VeryCoolUsername"
 Alternatively, if you are using HLAE you can print the player slots in your console with the command "mirv_deathmsg help players"
 
 Note that HLAE counts from 0 so you will have to +1 to the slot number
+
+OR just use Chezpuf's very cool rebind tool: https://github.com/Chezpuf/observer-bind-tool
