@@ -17,8 +17,8 @@ Alternatively, if you are using HLAE, you can print the player slots in your con
 
 
 
-OR you can use Chezpuf's observer rebind tool: https://github.com/Chezpuf/observer-bind-tool
+  OR you can use Chezpuf's observer rebind tool: https://github.com/Chezpuf/observer-bind-tool
 
 
 
-OR OR you can use paper's HLAE fork that comes with an overlay: https://github.com/papesgit/advancedfx
+  OR OR you can use paper's HLAE fork that comes with an overlay: https://github.com/papesgit/advancedfx
