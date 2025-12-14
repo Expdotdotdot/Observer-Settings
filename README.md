@@ -14,3 +14,5 @@ Alternatively, if you are using HLAE you can print the player slots in your cons
 Note that HLAE counts from 0 so you will have to +1 to the slot number
 
 OR just use Chezpuf's very cool rebind tool: https://github.com/Chezpuf/observer-bind-tool
+
+OR OR use paper's HLAE fork: https://github.com/papesgit/advancedfx
