@@ -5,12 +5,14 @@ My regular observer settings for consistency
 https://github.com/advancedfx/advancedfx
 
 ## Faceit Coaches
-Use spec_player followed by the player name in "" to spec the player that is not on 0-9
+Use the command --> spec_player <-- followed by the player name in "" to spectate the player that is not on 0-9
+
 Ex: bind - spec_player "VeryCoolUsername"
 
-Alternatively, if you are using HLAE you can print the player slots in your console with the command "mirv_deathmsg help players"
+Alternatively, if you are using HLAE, you can print the player slots in your console with this command --> "mirv_deathmsg help players"
+
 (Note that HLAE counts from 0 so you will have to +1 to the slot number)
 
-OR just use Chezpuf's very cool rebind tool: https://github.com/Chezpuf/observer-bind-tool
+OR you can use Chezpuf's observer rebind tool: https://github.com/Chezpuf/observer-bind-tool
 
-OR OR use paper's HLAE fork: https://github.com/papesgit/advancedfx
+OR OR you can use paper's HLAE fork that comes with an overlay: https://github.com/papesgit/advancedfx
