@@ -21,4 +21,4 @@ https://github.com/advancedfx/advancedfx
 
 <br>
 
- **OR OR** you can use paper's HLAE fork that comes with an overlay that allows for rebinding: https://github.com/papesgit/advancedfx
+ **OR OR** you can use paper's HLAE overlay fork that has a rebinding feature: https://github.com/papesgit/advancedfx
