@@ -5,7 +5,7 @@ My regular observer settings for consistency
 https://github.com/advancedfx/advancedfx
 
 ## Faceit Coaches
-- **This command must be set to 0 --> *spec_usenumberkeys_nobinds***
+- **This command must be set to 0 --> *spec_usenumberkeys_nobinds 0***
 
 - Use the command --> *spec_player* followed by the player name in "quotations" to spectate the player that is not on 0-9
 
