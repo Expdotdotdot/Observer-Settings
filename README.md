@@ -10,8 +10,12 @@ https://github.com/advancedfx/advancedfx
 - Use the command --> *spec_player* followed by the player name in "quotations" to spectate the player that is not on 0-9
 
   > Ex: bind 9 spec_player "VeryCoolUsername"
+  
+  > Note that if a player's name starts with a number, this WILL NOT WORK 
 
-- Alternatively, if you are using HLAE, you can print the player slots in your console with this command --> "mirv_deathmsg help players"
+- Alternatively, if you are using HLAE, you can print the player slot numbers in your console with this command --> "mirv_deathmsg help players"
+
+  > Ex: bind 9 spec_player 11
 
   > (Note that HLAE counts from 0 so you will have to +1 to the slot number)
 
